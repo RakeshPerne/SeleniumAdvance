@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20274" started-at="2018-07-23T07:23:33Z" finished-at="2018-07-23T07:23:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20274" started-at="2018-07-23T07:23:33Z" finished-at="2018-07-23T07:23:53Z">
+      <class name="selenium.MavenNow.Demo04_TakeScreen">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:selenium.MavenNow.Demo04_TakeScreen@c038203]" name="beforeTest" is-config="true" duration-ms="19793" started-at="2018-07-23T12:53:33Z" finished-at="2018-07-23T12:53:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="javascrpt()[pri:0, instance:selenium.MavenNow.Demo04_TakeScreen@c038203]" name="javascrpt" duration-ms="444" started-at="2018-07-23T12:53:52Z" finished-at="2018-07-23T12:53:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- javascrpt -->
+      </class> <!-- selenium.MavenNow.Demo04_TakeScreen -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
